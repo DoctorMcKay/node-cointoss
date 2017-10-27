@@ -8,7 +8,7 @@ Exports a function that, when called, returns either `true` or `false` randomly 
 
 # Why?
 
-Because if there's one thing npm needs more if, it's 3-line packages.
+Because if there's one thing npm needs more of, it's 3-line packages.
 
 # How?
 
