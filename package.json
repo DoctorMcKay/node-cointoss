@@ -1,0 +1,11 @@
+{
+	"name": "cointoss",
+	"description": "Securely toss a coin",
+	"version": "1.0.0",
+	"author": "Alex Corn <mckay@doctormckay.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DoctorMcKay/node-cointoss"
+	},
+	"license": "MIT"
+}
